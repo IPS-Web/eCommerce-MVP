@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A stylish and modern collection of electronic gadgets on a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1758784211688-ab9177d65bb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBnYWRnZXRzfGVufDB8fHx8MTc1OTI0MDQzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern gadgets"
+    },
+    {
+      "id": "product-1",
+      "description": "A sleek, modern digital camera.",
+      "imageUrl": "https://images.unsplash.com/photo-1698502453332-03fa2ddceb71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwY2FtZXJhfGVufDB8fHx8MTc1OTMxMjUzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital camera"
+    },
+    {
+      "id": "product-2",
+      "description": "High-fidelity wireless headphones in black.",
+      "imageUrl": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3aXJlbGVzcyUyMGhlYWRwaG9uZXN8ZW58MHx8fHwxNzU5MjA3MTU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireless headphones"
+    },
+    {
+      "id": "product-3",
+      "description": "A modern smartwatch with a colorful display.",
+      "imageUrl": "https://images.unsplash.com/photo-1726160743227-b8b00c61143f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzbWFydHdhdGNoJTIwZGlzcGxheXxlbnwwfHx8fDE3NTkyNTM3MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartwatch display"
+    },
+    {
+      "id": "product-4",
+      "description": "A powerful and slim laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1637552481610-154c687c7db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbGltJTIwbGFwdG9wfGVufDB8fHx8MTc1OTMyNTM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "slim laptop"
+    },
+    {
+      "id": "product-5",
+      "description": "A portable bluetooth speaker.",
+      "imageUrl": "https://images.unsplash.com/photo-1588131153911-a4ea5189fe19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxibHVldG9vdGglMjBzcGVha2VyfGVufDB8fHx8MTc1OTI4MTc2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bluetooth speaker"
+    },
+    {
+      "id": "product-6",
+      "description": "A professional-grade drone with a high-resolution camera.",
+      "imageUrl": "https://images.unsplash.com/photo-1677308104434-ea641ccc6237?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYW1lcmElMjBkcm9uZXxlbnwwfHx8fDE3NTkyMzI3OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "camera drone"
+    },
+    {
+      "id": "product-7",
+      "description": "A virtual reality headset.",
+      "imageUrl": "https://images.unsplash.com/photo-1707228773518-7ca0492d0c4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxWUiUyMGhlYWRzZXR8ZW58MHx8fHwxNzU5MzI1MzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "VR headset"
+    },
+    {
+      "id": "product-8",
+      "description": "An ergonomic wireless mouse.",
+      "imageUrl": "https://images.unsplash.com/photo-1739742473235-34a7bd9b8f87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3aXJlbGVzcyUyMG1vdXNlfGVufDB8fHx8MTc1OTIzMzA4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireless mouse"
+    }
+  ]
+}
